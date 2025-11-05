@@ -14,10 +14,8 @@ def find_max_number(num1, num2, num3):
     else:
         return num3
     
-    
-
 def find_mean(num1, num2, num3):
-    num4=(num1 + num2 + num3)/3
+    num4=(num1+num2+num3)/3
     return num4
 
 def find_mean_std(num1, num2, num3):
